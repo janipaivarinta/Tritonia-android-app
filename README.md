@@ -1,1 +1,1 @@
-# Tritonia
+# Tritonia Android Application
